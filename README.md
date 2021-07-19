@@ -6,7 +6,7 @@
 * JavaScript <img src = https://github.com/andregossip/andregossip/blob/main/images/javascript.svg width=30>
 * C# <img src= https://github.com/andregossip/andregossip/blob/main/images/c-sharp.svg width=30>
 * C <img src= https://github.com/andregossip/andregossip/blob/main/images/c.svg width=30>
-* Prolog <img src= https://github.com/andregossip/andregossip/blob/main/images/swipl.svg width=30>
+* Prolog <img src= https://github.com/andregossip/andregossip/blob/main/images/prolog.svg width=30>
 
 ## Reach me at
 * ![Linkedin Badge](https://img.shields.io/badge/-André_Christofferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-christofferson-228b4a7b/)
