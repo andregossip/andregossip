@@ -15,7 +15,7 @@
 * <img src= https://github.com/andregossip/andregossip/blob/main/images/c.svg width=30>
 * <img src= https://github.com/andregossip/andregossip/blob/main/images/prolog2.png width=30> -->
 
-<img src = https://github.com/andregossip/andregossip/blob/main/images/python.svg width='50'/> <img src = https://github.com/andregossip/andregossip/blob/main/images/java.svg width=50> <img src = https://github.com/andregossip/andregossip/blob/main/images/javascript.svg width=50> <img src= https://github.com/andregossip/andregossip/blob/main/images/c-sharp.svg width=50> <img src= https://github.com/andregossip/andregossip/blob/main/images/c.svg width=50> <img src= https://github.com/andregossip/andregossip/blob/main/images/prolog2.png width=50>
+<img src = https://github.com/andregossip/andregossip/blob/main/images/python.svg width='50'/> <img src = https://github.com/andregossip/andregossip/blob/main/images/java.svg width=50> <img src = https://github.com/andregossip/andregossip/blob/main/images/javascript.svg width=50> <img src= https://github.com/andregossip/andregossip/blob/main/images/c-sharp.svg width=50> <img src= https://github.com/andregossip/andregossip/blob/main/images/c.svg width=50> <img src= https://github.com/andregossip/andregossip/blob/main/images/prolog2.png width=70>
 
 ## Reach me at
 [<img src= "https://github.com/andregossip/andregossip/blob/main/images/linkedin.svg" width=30>](https://www.linkedin.com/in/andr%C3%A9-christofferson-228b4a7b/) [<img src= "https://github.com/andregossip/andregossip/blob/main/images/mail.svg" width=30>](mailto:andrechristofferson@me.com)
