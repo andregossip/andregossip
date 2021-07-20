@@ -17,6 +17,6 @@
 
 ## Reach me at
 <!-- * ![<img src= https://github.com/andregossip/andregossip/blob/main/images/linkedin.svg width=30>](https://img.shields.io/badge/-André_Christofferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-christofferson-228b4a7b/) -->
-* [![foo](<img src= https://github.com/andregossip/andregossip/blob/main/images/linkedin.svg width=30>)](https://www.linkedin.com/in/andr%C3%A9-christofferson-228b4a7b/)
+* [![foo](<img src= https://github.com/andregossip/andregossip/blob/main/images/linkedin.svg)](https://www.linkedin.com/in/andr%C3%A9-christofferson-228b4a7b/)
 
 * Mail
