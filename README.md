@@ -8,12 +8,12 @@
 * C <img src= https://github.com/andregossip/andregossip/blob/main/images/c.svg width=30>
 * Prolog <img src= https://github.com/andregossip/andregossip/blob/main/images/prolog.svg width=30> -->
 
-* <img src = https://github.com/andregossip/andregossip/blob/main/images/python.svg width='50'/>
-* <img src = https://github.com/andregossip/andregossip/blob/main/images/java.svg width=50>
-* <img src = https://github.com/andregossip/andregossip/blob/main/images/javascript.svg width=50>
-* <img src= https://github.com/andregossip/andregossip/blob/main/images/c-sharp.svg width=50>
-* <img src= https://github.com/andregossip/andregossip/blob/main/images/c.svg width=50>
-* <img src= https://github.com/andregossip/andregossip/blob/main/images/prolog2.png width=60>
+* <img src = https://github.com/andregossip/andregossip/blob/main/images/python.svg width='30'/>
+* <img src = https://github.com/andregossip/andregossip/blob/main/images/java.svg width=30>
+* <img src = https://github.com/andregossip/andregossip/blob/main/images/javascript.svg width=30>
+* <img src= https://github.com/andregossip/andregossip/blob/main/images/c-sharp.svg width=30>
+* <img src= https://github.com/andregossip/andregossip/blob/main/images/c.svg width=30>
+* <img src= https://github.com/andregossip/andregossip/blob/main/images/prolog2.png width=30>
 
 <!-- <img src = https://github.com/andregossip/andregossip/blob/main/images/python.svg width='50'/> <img src = https://github.com/andregossip/andregossip/blob/main/images/java.svg width=50> <img src = https://github.com/andregossip/andregossip/blob/main/images/javascript.svg width=50> <img src= https://github.com/andregossip/andregossip/blob/main/images/c-sharp.svg width=50> <img src= https://github.com/andregossip/andregossip/blob/main/images/c.svg width=50> <img src= https://github.com/andregossip/andregossip/blob/main/images/prolog2.png width=60> -->
 
